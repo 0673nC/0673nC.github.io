@@ -2,7 +2,9 @@
 layout: layout
 title: 0673nC's Blog
 ---
-#個人的メモ用のブログ.
+
+個人的メモ用のブログ.
+====================
 
 {% for post in site.posts %}
 <div class="panel panel-primary">
