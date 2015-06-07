@@ -16,7 +16,7 @@ title: 0673nC's Blog
   <div class="panel-body">
   <span class="lead">{{ post.date | date_to_long_string }} : </span>
   {% for tag in post.tags %}
-    <a href="#" class="btn btn-success">{{ tag }}</a>
+    <span class="label label-success label-toppage">{{ tag }}</span>
   {% endfor %}
   </div>
 </div>
