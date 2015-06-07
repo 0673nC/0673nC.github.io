@@ -15,7 +15,7 @@ emacs上でのshellの設定は**zsh + shell-pop**という風にしていた
 
 そこで公式リポジトリのREADMEのCustomizationの部分を改めて読んで設定しなおした
 
-> [shell-pop](https://github.com/kyagi/shell-pop-el)
+> [shell-pop](https://github.com/kyagi/shell-pop-el){:target="_blank"}
 
 設定は反映されそれらしい動きを見せてくれる
 
@@ -29,7 +29,7 @@ emacs上でのshellの設定は**zsh + shell-pop**という風にしていた
 
 どの方法でうまくいくか試したとことこちらの記事の方法のみで上手くいった
 
-> [Emacs 上で快適に Bash や Zsh を利用する設定](http://sakito.jp/emacs/emacsshell.html)
+> [Emacs 上で快適に Bash や Zsh を利用する設定](http://sakito.jp/emacs/emacsshell.html){:target="_blank"}
 >
 >> tic -o ~/.terminfo /Applications/Emacs.app/Contents/Resources/etc/e/eterm-color.ti
 
